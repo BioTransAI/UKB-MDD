@@ -2,7 +2,7 @@
 
 ## Overview
 Major Depressive Disorder (MDD) is a heterogeneous condition, yet its biological basis remains fragmented across molecular, physiological, and clinical domains. Here, leveraging plasma proteomics from 52,996 UK Biobank participants, we delineate a systems-level architecture of MDD using a biologically interpretable modeling framework. 
-
+![BioM2](https://github.com/BioTransAI/UKB-MDD/edit/main/UKB_MDD.png)
 ## Key Features
 * **Machine Learning & Identify Biomarkers:** Utilizes the BioM2 frameworks to identify highly predictive protein biomarkers and biological pathways
 * **Phenotype Association:** Robust generalized linear models (GLM, LM, POLR) to correlate predicted risk scores with various clinical phenotypes.
