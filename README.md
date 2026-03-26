@@ -25,7 +25,7 @@ Additionally, install specialized bioinformatics and ML packages:
 * **TwoSampleMR:** `remotes::install_github("MRCIEU/TwoSampleMR")`
 * **ieugwasr:** `remotes::install_github("MRCIEU/ieugwasr")`
 * **mediation:** `install.packages("mediation")`
-* **BioM2:** `install.packages("BioM2")`
+* **BioM2:** `install.packages("BioM2") / devtools::install_github("BioTransAI/BioM2")`
 * **GO.db:** `BiocManager::install("GO.db")`
 
 ### External Software
